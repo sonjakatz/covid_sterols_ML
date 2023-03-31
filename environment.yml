@@ -1,0 +1,44 @@
+name: env_covid
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - blas=1.0=mkl
+  - bzip2=1.0.8=h7b6447c_0
+  - c-ares=1.19.0=h5eee18b_0
+  - ca-certificates=2023.01.10=h06a4308_0
+  - curl=7.88.1=h5eee18b_0
+  - expat=2.4.9=h6a678d5_0
+  - gdbm=1.18=hd4cb3f1_4
+  - gettext=0.21.0=h39681ba_1
+  - git=2.34.1=pl5262hc120c5b_0
+  - icu=58.2=he6710b0_3
+  - intel-openmp=2021.4.0=h06a4308_3561
+  - krb5=1.19.4=h568e23c_0
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libcurl=7.88.1=h91b91d3_0
+  - libedit=3.1.20221030=h5eee18b_0
+  - libev=4.33=h7f8727e_1
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgfortran-ng=11.2.0=h00389a5_1
+  - libgfortran5=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libnghttp2=1.46.0=hce63b2e_0
+  - libssh2=1.10.0=h8f2d780_0
+  - libstdcxx-ng=12.2.0=h46fd767_19
+  - libxml2=2.10.3=hcbfbd50_0
+  - mkl=2021.4.0=h06a4308_640
+  - ncurses=6.4=h6a678d5_0
+  - openssl=1.1.1t=h7f8727e_0
+  - pcre2=10.37=he7ceb23_1
+  - perl=5.34.0=h5eee18b_2
+  - pybind11-abi=4=hd3eb1b0_0
+  - readline=8.2=h5eee18b_0
+  - ripgrep=13.0.0=hbdeaff8_0
+  - tk=8.6.12=h1ccaba5_0
+  - tzdata=2022g=h04d1e81_0
+  - xz=5.2.10=h5eee18b_1
+  - zlib=1.2.13=h5eee18b_0
+prefix: /home/skatz/miniconda3/envs/env_covid
