@@ -1,0 +1,106 @@
+{
+    "grid_RandomForest": [
+        {
+            "RandomForest__n_estimators": [
+                300,
+                500,
+                1000
+            ],
+            "RandomForest__criterion": [
+                "gini"
+            ],
+            "RandomForest__min_samples_split": [
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "model_RandomForest": "RandomForestClassifier(random_state=None)",
+    "grid_LogReg": [
+        {
+            "LogReg__penalty": [
+                "l1",
+                "l2"
+            ],
+            "LogReg__tol": [
+                0.0001,
+                0.001,
+                1e-05
+            ],
+            "LogReg__C": [
+                0.5,
+                0.8,
+                1
+            ],
+            "LogReg__solver": [
+                "saga"
+            ]
+        }
+    ],
+    "model_LogReg": "LogisticRegression(random_state=None, max_iter=300)",
+    "grid_KNN": [
+        {
+            "KNN__n_neighbors": [
+                3,
+                5,
+                8
+            ],
+            "KNN__weights": [
+                "uniform",
+                "distance"
+            ],
+            "KNN__p": [
+                1,
+                2
+            ]
+        }
+    ],
+    "model_KNN": "KNeighborsClassifier()",
+    "grid_GBoost": [
+        {
+            "GBoost__learning_rate": [
+                0.1,
+                0.01,
+                0.001
+            ],
+            "GBoost__n_estimators": [
+                300,
+                500,
+                1000
+            ],
+            "GBoost__min_samples_split": [
+                2,
+                3,
+                4
+            ],
+            "GBoost__max_depth": [
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "model_GBoost": "GradientBoostingClassifier(random_state=None)",
+    "grid_MLP": [
+        {
+            "MLP__hidden_layer_sizes": [
+                [
+                    70
+                ],
+                [
+                    50,
+                    20
+                ],
+                [
+                    30
+                ]
+            ],
+            "MLP__learning_rate_init": [
+                0.001,
+                0.0001
+            ]
+        }
+    ],
+    "model_MLP": "MLPClassifier(random_state=None, max_iter=1000)"
+}
