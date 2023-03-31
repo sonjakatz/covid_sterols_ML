@@ -1,0 +1,17 @@
+xray_admission_pathological_n/y
+age
+cough_type
+a_feeling_of_difficulty_breathing_n/y
+other_problems_write
+chronic_disease_other_write
+neutrophils
+lymphocyte_admission
+ldh_admission_µkat/L
+total_bilirubin_admission_µmol/L
+cd_lungs_n/y
+arterial_hypertension_n/y
+diabetes_n/y
+heart_failure_n/y
+cd_kidney_n/y
+hiv_n/y
+active_mlg_disease_n/y

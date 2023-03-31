@@ -1,0 +1,3 @@
+ldh_admission_µkat/L
+ferritin_admission_µg/L
+crp_admission_mg/L

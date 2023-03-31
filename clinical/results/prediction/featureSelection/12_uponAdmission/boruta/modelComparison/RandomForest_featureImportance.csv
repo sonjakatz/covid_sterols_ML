@@ -1,0 +1,9 @@
+fi,var
+0.2202713382448196,the_main_reason_for_hospital_admission
+0.15824925442084295,crp_admission_mg/L
+0.15242725167524138,ferritin_admission_µg/L
+0.1487612509832211,ldh_admission_µkat/L
+0.10896678124256072,saturation_measured_based_on…
+0.07502836953264265,xray_admission_thickenings
+0.06924885967937908,xray_admission_pathological_n/y
+0.06704689422129248,saturation_%

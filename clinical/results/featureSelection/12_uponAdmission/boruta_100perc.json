@@ -1,0 +1,12 @@
+{
+    "the_main_reason_for_hospital_admission": 1.0,
+    "saturation_measured_based_on\u2026": 1.0,
+    "ferritin_admission_\u00b5g/L": 1.0,
+    "ldh_admission_\u00b5kat/L": 1.0,
+    "xray_admission_pathological_n/y": 1.0,
+    "xray_admission_thickenings": 1.0,
+    "saturation_%": 0.96,
+    "crp_admission_mg/L": 1.0,
+    "rr_sist_mmHg": 0.01,
+    "leukocyte_admission": 0.01
+}

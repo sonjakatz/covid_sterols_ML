@@ -1,0 +1,2 @@
+selected_features_ind,model
+"['crp_admission_mg/L', 'ferritin_admission_µg/L', 'ldh_admission_µkat/L', 'saturation_%', 'saturation_measured_based_on…', 'the_main_reason_for_hospital_admission', 'xray_admission_pathological_n/y', 'xray_admission_thickenings']",rfc

@@ -1,0 +1,15 @@
+the_main_reason_for_hospital_admission
+saturation_measured_based_on…
+ferritin_admission_µg/L
+ldh_admission_µkat/L
+xray_admission_pathological_n/y
+xray_admission_thickenings
+dexamethasone
+dexamethasone_duration_th_days
+crp___max
+leukocyte_max
+neutrophils
+ferritin_max
+ldh_max
+maximum_oxygen_demand
+treatment_attempt_for_covid19_n/y

@@ -1,0 +1,12 @@
+bmi
+statins_n/y
+cholesterol_admission_mmol/L
+hdl_admission_mmol/L
+ldl_admission_mmol/L
+triglycerides_admission_mmol/L
+total_bilirubin_admission_µmol/L
+ast_admission_µkat/L
+alt_admission_µkat/L
+ggt_admission_µkat/L
+crp_admission_mg/L
+ferritin_admission_µg/L

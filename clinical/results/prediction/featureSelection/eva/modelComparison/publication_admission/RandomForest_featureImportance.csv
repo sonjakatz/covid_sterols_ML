@@ -1,0 +1,13 @@
+fi,var
+0.17554955780561893,crp_admission_mg/L
+0.17162614211821595,ferritin_admission_µg/L
+0.11014031567774037,ggt_admission_µkat/L
+0.08284493166972011,ast_admission_µkat/L
+0.07860947846111217,total_bilirubin_admission_µmol/L
+0.07353682089230561,triglycerides_admission_mmol/L
+0.07065652661490117,cholesterol_admission_mmol/L
+0.06405528205775463,bmi
+0.06160874373975993,alt_admission_µkat/L
+0.05094567645485659,hdl_admission_mmol/L
+0.05028631295117859,ldl_admission_mmol/L
+0.01014021155683608,statins_n/y
