@@ -1,8 +1,11 @@
 # Cholesterol-related sterols as predictors of COVID-19 disease progression
 
 Author: Sonja Katz
+
 Wageningen University and Research 
+
 sonja.katz@wur.nl
+
 *31.03.2023*
 
 - Collaboration with Eva Kočar (eva.kocar@mf.uni-lj.si) and  Žiga Pušnik
@@ -15,6 +18,10 @@ sonja.katz@wur.nl
 conda env create -f environment.yml
 source activate env_covid
 ```
+
+## Publication
+
+... manuscript in preparation
 
 
 ## Data
