@@ -1,0 +1,10 @@
+the_main_reason_for_hospital_admission
+ferritin_admission_µg/L
+ldh_admission_µkat/L
+xray_admission_pathological_n/y
+xray_admission_thickenings
+crp_admission_mg/L
+2425-dihydrolanosterol
+zymostenol
+desmosterol
+24-dehydrolathosterol

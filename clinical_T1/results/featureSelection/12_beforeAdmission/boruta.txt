@@ -1,0 +1,8 @@
+the_doctor_who_entered_the_data
+age
+active_mlg_disease_n/y
+acei_n/y
+statins_n/y
+immunosuppressive_drugs_n/y
+healthcareassociated_infection_n/y
+known_contact_with_c19_patient_n/y

@@ -1,0 +1,14 @@
+the_main_reason_for_hospital_admission
+rr_sist_mmHg
+saturation_measured_based_on…
+leukocyte_admission
+ferritin_admission_µg/L
+ldh_admission_µkat/L
+xray_admission_pathological_n/y
+xray_admission_thickenings
+24-dehydrolathosterol
+desmosterol
+lanosterol
+zymostenol
+saturation_%
+crp_admission_mg/L

@@ -1,0 +1,304 @@
+originalVar,preprocessedVar,dataSplit
+Serial no.,serial_no,beforeAdmission
+The doctor who entered the data,the_doctor_who_entered_the_data,beforeAdmission
+Sex (m/f),sex_m/f,beforeAdmission
+Age,age,beforeAdmission
+Chronic disease (n/y),chronic_disease_n/y,beforeAdmission
+Diabetes (n/y),diabetes_n/y,beforeAdmission
+Thyroid disease (n/y),thyroid_disease_n/y,beforeAdmission
+Hyperlipidemia (n/y),hyperlipidemia_n/y,beforeAdmission
+Arterial hypertension (n/y),arterial_hypertension_n/y,beforeAdmission
+Heart failure (n/y),heart_failure_n/y,beforeAdmission
+CD lungs (n/y),cd_lungs_n/y,beforeAdmission
+CD liver (n/y),cd_liver_n/y,beforeAdmission
+CD kidney (n/y),cd_kidney_n/y,beforeAdmission
+CD kidney on HD (n/y),cd_kidney_on_hd_n/y,beforeAdmission
+CD nervous system (n/y),cd_nervous_system_n/y,beforeAdmission
+Rheumatic disease (n/y),rheumatic_disease_n/y,beforeAdmission
+Active MLG disease (n/y),active_mlg_disease_n/y,beforeAdmission
+A. MLG - KMC (n/y),a_mlg_kmc_n/y,beforeAdmission
+A. MLG - solid organ (n/y),a_mlg_solid_organ_n/y,beforeAdmission
+Tx  (n/y),tx_n/y,beforeAdmission
+Tx - KMC (n/y),tx_kmc_n/y,beforeAdmission
+Tx - solid organ (n/y),tx_solid_organ_n/y,beforeAdmission
+HIV (n/y),hiv_n/y,beforeAdmission
+Chronic disease - other (write),chronic_disease_other_write,beforeAdmission
+BMI (calculated value),bmi,beforeAdmission
+Obesity - BMI ≥30 (n/y),obesity_bmi_30,beforeAdmission
+Pregnancy (n/y),pregnancy_n/y,beforeAdmission
+Pregnancy (week),pregnancy_week,beforeAdmission
+Harmul habits (n/y),harmul_habits_n/y,beforeAdmission
+Smoking (n/y),smoking_n/y,beforeAdmission
+Alcohol (n/y),alcohol_n/y,beforeAdmission
+Drugs (n/y),drugs_n/y,beforeAdmission
+Former smoker - smoking in the last 10 years (n/y),former_smoker_smoking_in_the_last_10_years_n/y,beforeAdmission
+Regular therapy (n/y),regular_therapy_n/y,beforeAdmission
+ACEI (n/y),acei_n/y,beforeAdmission
+Sartani (n/y),sartani_n/y,beforeAdmission
+Other antihypertensives (n/y),other_antihypertensives_n/y,beforeAdmission
+Spironolakton/eplerenon (n/y),spironolakton_eplerenon_n/y,beforeAdmission
+Other diuretics (n/y),other_diuretics_n/y,beforeAdmission
+Statins (n/y),statins_n/y,beforeAdmission
+NSAID (n/y),nsaid_n/y,beforeAdmission
+COX2 inh. (n/y),cox2_inh_n/y,beforeAdmission
+Acetylsalicylic acid  (n/y),acetylsalicylic_acid_n/y,beforeAdmission
+Other antiplatelet drugs (n/y),other_antiplatelet_drugs_n/y,beforeAdmission
+Metformin (n/y),metformin_n/y,beforeAdmission
+Other p.o. antidiabetics (n/y),other_po_antidiabetics_n/y,beforeAdmission
+Insulin (n/y),insulin_n/y,beforeAdmission
+Hydroxychloroquine/chloroquine (n/y),hydroxychloroquine_chloroquine_n/y,beforeAdmission
+Vitamin D (n/y),vitamin_d_n/y,beforeAdmission
+Weekly dose of Vit D (IE or name of the drug an number of drops),weekly_dose_of_vit_d,beforeAdmission
+Vitamin K antagonists (n/y),vitamin_k_antagonists_n/y,beforeAdmission
+NOAK (n/y),noak_n/y,beforeAdmission
+Parenteral anticoagulant (n/y),parenteral_anticoagulant_n/y,beforeAdmission
+Immunosuppressive drugs (n/y),immunosuppressive_drugs_n/y,beforeAdmission
+Ciclosporin (n/y),ciclosporin_n/y,beforeAdmission
+Mycophenolate (n/y),mycophenolate_n/y,beforeAdmission
+Tacrolimus  (n/y),tacrolimus_n/y,beforeAdmission
+Everolimus (n/y),everolimus_n/y,beforeAdmission
+JAK inhibitor (n/y),jak_inhibitor_n/y,beforeAdmission
+Methylprednisolon (n/y),methylprednisolon_n/y,beforeAdmission
+Dexamethasone (n/y),dexamethasone_n/y,beforeAdmission
+Daily dose of steroid (mg),daily_dose_of_steroid_mg,beforeAdmission
+Methotrexsate (n/y),methotrexsate_n/y,beforeAdmission
+Fingolimod/glatiramer  (n/y),fingolimod_glatiramer_n/y,beforeAdmission
+Leflunomide/teriflunomide (n/y),leflunomide_teriflunomide_n/y,beforeAdmission
+Imatinib (n/y),imatinib_n/y,beforeAdmission
+Azathioprine (n/y),azathioprine_n/y,beforeAdmission
+Other immunosuppressive drugs (write),other_immunosuppressive_drugs_write,beforeAdmission
+Other drugs - non-proprietary name (write - CBZ-ATC classification),other_drugs_nonproprietary_name,beforeAdmission
+Date of admission,date_of_admission,uponAdmission
+Date of discharge,date_of_discharge,discharge
+Length of hospitalization (days),length_of_hospitalization_days,discharge
+Location of admission (KIBVS/ORT/BPD/DTS/EIT),location_of_admission,uponAdmission
+Employed in healthcare (n/y),employed_in_healthcare_n/y,beforeAdmission
+Healthcare-associated infection (n/y),healthcareassociated_infection_n/y,beforeAdmission
+Known contact with c-19 patient (n/y),known_contact_with_c19_patient_n/y,beforeAdmission
+Vaccinated against covid-19 (n/y),vaccinated_against_covid19_n/y,beforeAdmission
+"Vaccine (1=Pfizer/BioNTech, 2=AstraZeneca, 3=Moderna, 4=Johnson&Johnson)",vaccine,beforeAdmission
+Fully vaccinated (n/y),fully_vaccinated_n/y,beforeAdmission
+Total number of doses received,total_number_of_doses_received,beforeAdmission
+Date of last vaccine dose,date_of_last_vaccine_dose,beforeAdmission
+Interval between last dose and illness (days),interval_between_last_dose_and_illness_days,uponAdmission
+Onset of illness (date),onset_of_illness_date,uponAdmission
+Fever >37.5°C (n/y),fever,uponAdmission
+"The onset of fever ≥37,5°C (date)",the_onset_of_fever,uponAdmission
+Temperature max. (°C),temperature_max_°C,uponAdmission
+A cold (n/y),a_cold_n/y,uponAdmission
+Headache (n/y),headache_n/y,uponAdmission
+"Headache - intensity (0=no headache, 1-10=intensity)",headache_intensity,uponAdmission
+Sore muscles (n/y),sore_muscles_n/y,uponAdmission
+Painful joints (n/y),painful_joints_n/y,uponAdmission
+Sore throat (n/y),sore_throat_n/y,uponAdmission
+Hoarseness (n/y),hoarseness_n/y,uponAdmission
+Painful/burning eye (n/y),painful_burning_eye_n/y,uponAdmission
+Runny nose/stuffy nose (n/y),runny_nose_stuffy_nose_n/y,uponAdmission
+Taste disorder (n/y),taste_disorder_n/y,uponAdmission
+Disturbed smell (n/y),disturbed_smell_n/y,uponAdmission
+Cough (n/y),cough_n/y,uponAdmission
+"Cough - type (b= no cough, s=dry, p=productive, k=mixed with blood)",cough_type,uponAdmission
+A feeling of difficulty breathing (n/y),a_feeling_of_difficulty_breathing_n/y,uponAdmission
+Chest pain (n/y),chest_pain_n/y,uponAdmission
+"Chest pain - type (b= no chest pain, o=sharp, t=dull, d=other)",chest_pain_type,uponAdmission
+"Chest pain - intensity (0= no pain, 1-10= intensity)",chest_pain_intensity,uponAdmission
+Abdominal pain (n/y),abdominal_pain_n/y,uponAdmission
+Nausea/vomiting (n/y),nausea_vomiting_n/y,uponAdmission
+Loose/liquid stool (n/y),loose_liquid_stool_n/y,uponAdmission
+Fatigue/↓ physical performance (n/y),fatigue_physical_performance_n/y,uponAdmission
+Other problems (write),other_problems_write,uponAdmission
+"The main reason for hospital admission (1=need for oxygen, 2=subjective feeling of difficulty breathing, 3=worsening of the underlying disease, 4=other)",the_main_reason_for_hospital_admission,uponAdmission
+RR sist. (mmHg),rr_sist_mmHg,uponAdmission
+RR diast. (mmHg),rr_diast_mmHg,uponAdmission
+Fr. Heart,fr_heart,uponAdmission
+Fr. Breathing,fr_breathing,uponAdmission
+Saturation (%),saturation_%,uponAdmission
+"Saturation measured based on… (z=air, k=oxygen)",saturation_measured_based_on…,uponAdmission
+"Oxygen used (1-6L/min., 28, 31,35, 40, 60, 100)",oxygen_used,uponAdmission
+Temperature (°C),temperature_°C,uponAdmission
+Body weight (kg),body_weight_kg,uponAdmission
+Body height (cm),body_height_cm,uponAdmission
+Pathological auscultation of the lungs (n/y),pathological_auscultation_of_the_lungs_n/y,uponAdmission
+"Pathological lung auscultation (0=no pa, 1=unilateral, 2=bilateral)",pathological_lung_auscultation,uponAdmission
+"Pathological auscultation of the lungs (0=no pa, 1=crackles, 2=wheezing, 3=weakened breathing, 4=other)",pathological_auscultation_of_the_lungs,uponAdmission
+Other status abnormalities (write),other_status_abnormalities_write,uponAdmission
+New symptoms/signs during hospitalization (n/y),new_symptoms_signs_during_hospitalization_n/y,hospitalization
+New s/s - taste disorder (n/y),new_s_s_taste_disorder_n/y,hospitalization
+New s/s - disturbed smell (n/y),new_s_s_disturbed_smell_n/y,hospitalization
+New s/s - cough      (n/y),new_s_s_cough_n/y,hospitalization
+New s/s - shortness of breath (n/y),new_s_s_shortness_of_breath_n/y,hospitalization
+New s/s - Chest pain (n/y),new_s_s_chest_pain_n/y,hospitalization
+New s/s - other (write),new_s_s_other_write,hospitalization
+ALO/acute deterioration of KLB (n/y),alo_acute_deterioration_of_klb_n/y,hospitalization
+ALO/acute deterioration of KLB - dialysis treatment  (n/y),alo_acute_deterioration_of_klb_dialysis_treatment_n/y,hospitalization
+Occurrence of thrombosis/embolism (n/y),occurrence_of_thrombosis_embolism_n/y,hospitalization
+Occurrence of thrombosis/embolismj (date),occurrence_of_thrombosis_embolismj_date,hospitalization
+"Occurrence of thrombosis/embolism (0=not present, 1=GVT, 2=thrombosis with CVK, 3=PE, 4=other)",occurrence_of_thrombosis_embolism,hospitalization
+"Bacterial infection (n=no, s=suspected, d=proven)",bacterial_infection,hospitalization
+BO - agent (write),bo_agent_write,hospitalization
+BO - sample for diagnosis of BO (write),bo_sample_for_diagnosis_of_bo_write,hospitalization
+BO - hospital (n/y),bo_hospital_n/y,hospitalization
+"Viral infection (n=no, s=suspected, d=proven)",viral_infection,hospitalization
+VO - agent (write),vo_agent_write,hospitalization
+VO -sample for diagnosis (write),vo_sample_for_diagnosis_write,hospitalization
+"Fungal infection (n=no, m=possible, v=probable, d=proven)",fungal_infection,hospitalization
+"P-molds, K-yeasts, C-cryptococcus, J-pneumocyst, O-others","pmolds,_kyeasts,_ccryptococcus,_jpneumocyst,_oothers",hospitalization
+GO - agent (write),go_agent_write,hospitalization
+GO - sample for diagnosis (write),go_sample_for_diagnosis_write,hospitalization
+Treatment in EIT (n/y),treatment_in_eit_n/y,hospitalization
+Admission to EIT (date),admission_to_eit_date,hospitalization
+Mechanical ventilation (n/y),mechanical_ventilation_n/y,hospitalization
+"Mechanical ventilation - type (np=MH was not required, n=non-invasive, i=invasive)",mechanical_ventilation_type,hospitalization
+Mechanical ventilation - duration (days),mechanical_ventilation_duration_days,hospitalization
+Discharge form EIT (date),discharge_form_eit_date,hospitalization
+Fluimukan (n/y),fluimukan_n/y,hospitalization
+Vitamin D (n/y).1,vitamin_d_n/y.1,hospitalization
+Treatment attempt for covid-19 (n/y),treatment_attempt_for_covid19_n/y,hospitalization
+Remdesivir (n/y),remdesivir_n/y,hospitalization
+Remdesivir - when? (date),remdesivir_when?_date,hospitalization
+Remdesivir - duration th (days),remdesivir_duration_th_days,hospitalization
+Dexamethasone,dexamethasone,hospitalization
+Dexamethasone - when? (date),dexamethasone_when?_date,hospitalization
+Dexamethasone - duration th (days),dexamethasone_duration_th_days,hospitalization
+Medrol (n/y),medrol_n/y,hospitalization
+Medrol - when? (date),medrol_when?_date,hospitalization
+Medrol > 4 weeks (n/y),medrol,hospitalization
+Tocilizumab (n/y),tocilizumab_n/y,hospitalization
+Tocilizumab - when? (date),tocilizumab_when?_date,hospitalization
+Plasma (n/y),plasma_n/y,hospitalization
+Plasma - when? (date),plasma_when?_date,hospitalization
+Antimicrobial drug (n/y),antimicrobial_drug_n/y,hospitalization
+Antibiotic (n/y),antibiotic_n/y,hospitalization
+Antibiotic - first (date of initiation),antibiotic_first,hospitalization
+Antibiotic - first (write),antibiotic_first_write,hospitalization
+Number of antibiotic treatment episodes,number_of_antibiotic_treatment_episodes,hospitalization
+Antiviral drug (n/y),antiviral_drug_n/y,hospitalization
+Antiviral drug (date of initiation),antiviral_drug,hospitalization
+Antiviral drug (write),antiviral_drug_write,hospitalization
+Antifungal drug (n/y),antifungal_drug_n/y,hospitalization
+Antifungal drug (date of initiation),antifungal_drug,hospitalization
+Antifungal drug (write),antifungal_drug_write,hospitalization
+CRP admission (mg/L),crp_admission_mg/L,uponAdmission
+CRP      max.,crp___max,hospitalization
+CRP max. (date),crp_max_date,hospitalization
+PCT admission (µg/L),pct_admission_µg/L,uponAdmission
+PCT    max.,pct__max,hospitalization
+PCT max. (date),pct_max_date,hospitalization
+Leukocyte admission (× 109/L),leukocyte_admission,uponAdmission
+Leukocyte max.,leukocyte_max,hospitalization
+Leukocyte max. (date),leukocyte_max_date,hospitalization
+Levko    min.,levko__min,hospitalization
+Levko min. (date),levko_min_date,hospitalization
+Lymphocyte admission (× 109/L),lymphocyte_admission,uponAdmission
+Lymphocyte min.,lymphocyte_min,hospitalization
+Lymphocyte min. (date),lymphocyte_min_date,hospitalization
+Neutrophils (× 109/L) per day = lymph min.,neutrophils,hospitalization
+Platelet admission (× 109/L),platelet_admission,uponAdmission
+Platelet min.,platelet_min,hospitalization
+Platelet min. (date),platelet_min_date,hospitalization
+Vit D admission (nmol/L),vit_d_admission_nmol/L,uponAdmission
+Ferritin admission (µg/L),ferritin_admission_µg/L,uponAdmission
+Ferritin max.,ferritin_max,hospitalization
+Ferritin max. (date),ferritin_max_date,hospitalization
+D-dimer admission (µg/L),ddimer_admission_µg/L,uponAdmission
+D-dimer max.,ddimer_max,hospitalization
+D-dimer max. (date),ddimer_max_date,hospitalization
+Fibrinogen admission (g/L),fibrinogen_admission_g/L,uponAdmission
+Fibrinogen max.,fibrinogen_max,hospitalization
+Fibrinogen max. (date),fibrinogen_max_date,hospitalization
+LDH admission (µkat/L),ldh_admission_µkat/L,uponAdmission
+LDH max.,ldh_max,hospitalization
+LDH max. (date),ldh_max_date,hospitalization
+IL-6 admission (ng/L),il6_admission_ng/L,uponAdmission
+IL-6      max.,il6___max,hospitalization
+IL-6 max. (date),il6_max_date,hospitalization
+CK admission (µkat/L),ck_admission_µkat/L,uponAdmission
+CK     max.,ck___max,hospitalization
+CK max. (date),ck_max_date,hospitalization
+ACE admission (µkat/L),ace_admission_µkat/L,uponAdmission
+Albumin admission (g/L),albumin_admission_g/L,uponAdmission
+Albumin min.,albumin_min,hospitalization
+Albumin min. (date),albumin_min_date,hospitalization
+Cholesterol admission (mmol/L),cholesterol_admission_mmol/L,uponAdmission
+HDL admission (mmol/L),hdl_admission_mmol/L,uponAdmission
+LDL admission (mmol/L),ldl_admission_mmol/L,uponAdmission
+Triglycerides admission (mmol/L),triglycerides_admission_mmol/L,uponAdmission
+Total bilirubin admission (µmol/L),total_bilirubin_admission_µmol/L,uponAdmission
+Total bilirubin max.,total_bilirubin_max,hospitalization
+Total bilirubin max (date),total_bilirubin_max_date,hospitalization
+AST admission (µkat/L),ast_admission_µkat/L,uponAdmission
+AST max.,ast_max,hospitalization
+AST max (date),ast_max_date,hospitalization
+ALT admission (µkat/L),alt_admission_µkat/L,uponAdmission
+ALT max.,alt_max,hospitalization
+ALT max. (date),alt_max_date,hospitalization
+GGT admission (µkat/L),ggt_admission_µkat/L,uponAdmission
+GGT max.,ggt_max,hospitalization
+GGT max. (date),ggt_max_date,hospitalization
+Lab. signs of heart failure - pos. troponin (n/y),lab_signs_of_heart_failure_pos_troponin_n/y,hospitalization
+X-ray admission (n/y),xray_admission_n/y,uponAdmission
+X-ray admission - pathological (n/y),xray_admission_pathological_n/y,uponAdmission
+"X-ray admission - thickenings (1=unilateral, 2=bilateral, n=X-ray pathologically was not done)",xray_admission_thickenings,uponAdmission
+"X-ray admission - thickenings (p=peripheral, c=central, d=diffuse, n=X-ray pathologically was not done)",xray_admission_thickenings.1,uponAdmission
+"X-ray admission - thickenings (a=alveolar, i=interstitial, k=alv-int., o=organization, r=reticular, rn=reticulonodular, n=RTG pathologically was not done)",xray_admission_thickenings.2,uponAdmission
+"X-ray admission - possible associated bact infiltrates. etiology (n/y, n=X-ray pathologically was not done)",xray_admission_possible_associated_bact_infiltrates_etiology,uponAdmission
+X-ray - control (except upon discharge) (n/y),xray_control,hospitalization
+X-ray - control (number of X-ray controls),xray_control.1,hospitalization
+X-ray - 1. control (except on discharge) (date),xray_1_control,hospitalization
+"X-ray - 1. control - reason (0=no X-ray control, 1=follow-up, 2=deterioration, 3=other)",xray_1_control_reason,hospitalization
+"X-ray - 1. control (n=X-ray was not done, i=improvement, e=same, p=deterioration) - according to the X-ray upon admission",xray_1_control.1,hospitalization
+"X-ray - 1. control - thickenings (0=X-ray was not done, 1=unilateral, 2=bilateral)",xray_1_control_thickenings,hospitalization
+"X-ray - 1. control - thickenings (n=X-ray was not done, p=peripheral, c=central, d=diffuse)",xray_1_control_thickenings.1,hospitalization
+"X-ray - 1. control - thickenings (n=X-ray n was done, a=alveolar, i=interstitial, k=alv-int., o=organization)",xray_1_control_thickenings.2,hospitalization
+X-ray - 1. control - possible associated bact infiltrates. etiology (n/y),xray_1_control_possible_associated_bact_infiltrates_etiology_n/y,hospitalization
+CT lung performed (n/y),ct_lung_performed_n/y,hospitalization
+CT lung performed (date),ct_lung_performed_date,hospitalization
+"CT lung- cause (0=no CT scan, 1=suspicion of PE, 2=underlying disease, 3=other)",ct_lung_cause,hospitalization
+"CT pljuč - zgostitve (1=enostranske, 2=obojestranske)",ct_pljuč_zgostitve,hospitalization
+"CT pljuč - zgostitve (p=periferne, c=centralne, d=difuzne)",ct_pljuč_zgostitve.1,hospitalization
+CT pljuč - vzorec prizadetosti,ct_pljuč_vzorec_prizadetosti,hospitalization
+"CT pljuč - stopnja prizadetosti  (b=blaga, z=zmerna, i=izrazita)",ct_pljuč_stopnja_prizadetosti,hospitalization
+Odstotek prizadetih pljuč,odstotek_prizadetih_pljuč,hospitalization
+"Duration of temperature ≥37,5°C (days)",duration_of_temperature,hospitalization
+Duration of oxygen treatment (days),duration_of_oxygen_treatment_days,discharge
+"Maximum oxygen demand (1, 2, 3, 4, 5, 6, 28, 31,35, 40, 60, 100)",maximum_oxygen_demand,hospitalization
+Maximum oxygen demand (first fate),maximum_oxygen_demand.1,hospitalization
+Discharge - day of hospitalization,discharge_day_of_hospitalization,discharge
+Deceased (n/y),deceased_n/y,discharge
+Deceased (date),deceased_date,discharge
+"Cause of death (p=survived, c=covid, d=other)",cause_of_death,discharge
+"Discharged to : 1=original place, 2=DSO (newly hospitalized), 3=other hospital, 4=rehabilitation","discharged_to_:_1=original_place,_2=dso",discharge
+CRP value,crp_value,discharge
+PCT value,pct_value,discharge
+Leukocytes value,leukocytes_value,discharge
+Lymphocyte value,lymphocyte_value,discharge
+Platelet value,platelet_value,discharge
+Ferritin value,ferritin_value,discharge
+D-dimer value,ddimer_value,discharge
+Fibrinogen (g/L),fibrinogen_g/L,discharge
+LDH value,ldh_value,discharge
+IL-6    value,il6__value,discharge
+CK value,ck_value,discharge
+ACE  value,ace_value,discharge
+Laboratory signs ALO/posl. KLO (n/y),laboratory_signs_alo_posl_klo_n/y,discharge
+Total bilirubin discharge (µmol/L),total_bilirubin_discharge_µmol/L,discharge
+AST discharge (µkat/L),ast_discharge_µkat/L,discharge
+ALT discharge (µkat/L),alt_discharge_µkat/L,discharge
+GGT discharge (µkat/L),ggt_discharge_µkat/L,discharge
+Lab. signs of heart failure - pos. troponin (n/y),lab_signs_of_heart_failure_pos_troponin_n/y.1,discharge
+RTG discharge (n/y),rtg_discharge_n/y,discharge
+"X-ray discharge (i=improvement, e=same, p=worsening, n=X-ray was not performed) - according to previous investigations",xray_discharge,discharge
+"X-ray discharge - thickenings (0=X-ray was not performed, 1=unilateral, 2=bilateral, 3=disappeared)",xray_discharge_thickenings,discharge
+"X-ray discharge - thickenings (p=peripheral, c=central, d=diffuse, n=X-ray was not performed)",xray_discharge_thickenings.1,discharge
+"X-ray pb - thickenings (a=alveolar, i=interstitial, k=alv-int., o=organization, n=X-ray was not performed)",xray_pb_thickenings,discharge
+"Disease severity                            (1=mild 2=moderate, 3=severe, 4=critical)",disease_severity,discharge
+Zymosterol,zymosterol,uponAdmission
+24-dehydrolathosterol,24-dehydrolathosterol,uponAdmission
+Desmosterol,desmosterol,uponAdmission
+Lanosterol,lanosterol,uponAdmission
+Zymostenol,zymostenol,uponAdmission
+Lathosterol,lathosterol,uponAdmission
+T-MAS,t-mas,uponAdmission
+Cholesterol,cholesterol,uponAdmission
+Dihydro-T-MAS,dihydro-t-mas,uponAdmission
+2425-dihydrolanosterol,2425-dihydrolanosterol,uponAdmission

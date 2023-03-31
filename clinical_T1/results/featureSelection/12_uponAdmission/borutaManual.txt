@@ -1,0 +1,7 @@
+saturation_measured_based_on…
+ferritin_admission_µg/L
+ldh_admission_µkat/L
+xray_admission_pathological_n/y
+xray_admission_thickenings
+saturation_%
+crp_admission_mg/L

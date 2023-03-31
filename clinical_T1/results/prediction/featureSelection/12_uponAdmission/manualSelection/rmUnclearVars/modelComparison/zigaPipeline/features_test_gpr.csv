@@ -1,0 +1,2 @@
+selected_features_ind,model
+"['24-dehydrolathosterol', 'crp_admission_mg/L', 'desmosterol', 'ferritin_admission_µg/L', 'ldh_admission_µkat/L', 'saturation_%', 'xray_admission_pathological_n/y', 'zymostenol']",gpr
