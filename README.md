@@ -21,7 +21,7 @@ source activate env_covid
 
 ## Publication
 
-... manuscript in preparation
+[Kočar E, Katz S, Pušnik Ž, Bogovič P, Turel G, Skubic C, Režen T, Strle F, Dos Santos VA, Mraz M, Moškon M. COVID-19 and cholesterol biosynthesis: Towards innovative decision support systems. Iscience. 2023 Oct 20;26(10).](https://www.cell.com/iscience/pdf/S2589-0042(23)01876-X.pdf)
 
 
 ## Data
