@@ -20,8 +20,9 @@ source activate env_covid
 
 ## Publication
 
-[Kočar E, Katz S, Pušnik Ž, Bogovič P, Turel G, Skubic C, Režen T, Strle F, Dos Santos VA, Mraz M, Moškon M. COVID-19 and cholesterol biosynthesis: Towards innovative decision support systems. Iscience. 2023 Oct 20;26(10).](https://www.cell.com/iscience/pdf/S2589-0042(23)01876-X.pdf)
 [![DOI](https://zenodo.org/badge/621744167.svg)](https://zenodo.org/doi/10.5281/zenodo.12167402)
+
+[Kočar E, Katz S, Pušnik Ž, Bogovič P, Turel G, Skubic C, Režen T, Strle F, Dos Santos VA, Mraz M, Moškon M. COVID-19 and cholesterol biosynthesis: Towards innovative decision support systems. Iscience. 2023 Oct 20;26(10).](https://www.cell.com/iscience/pdf/S2589-0042(23)01876-X.pdf)
 
 
 ![Graphical abstract](https://github.com/sonjakatz/covid_sterols_ML/blob/master/graphicalAbstract.png)
