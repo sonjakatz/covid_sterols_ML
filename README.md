@@ -1,14 +1,13 @@
 # Cholesterol-related sterols as predictors of COVID-19 disease progression
 
-Author: Sonja Katz
+Author: Sonja Katz (sonja.katz@wur.nl), Miha Moškon (miha.moskon@fri.uni-lj.si), Žiga Pušnik (ziga.pusnik@fri.uni-lj.si)
 
-Wageningen University and Research 
+Wageningen University and Research, Netherlands; Faculty of Computer and Information Science, University of Ljubljana, Slovenia
 
-sonja.katz@wur.nl
 
 *31.03.2023*
 
-- Collaboration with Eva Kočar (eva.kocar@mf.uni-lj.si) and  Žiga Pušnik
+- Collaboration with Eva Kočar (eva.kocar@mf.uni-lj.si)
 - Prediction of COVID-19 disease severity using clinical variables and sterol measurements upon admission (n=164)
 
 
